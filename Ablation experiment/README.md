@@ -2,6 +2,8 @@
 
 |-- dataset1
 
+|--|-- DJI_0169.JPG-DJI_0172.JPG (subset of dataset)
+
 |--|-- superpixel_10 # result of our method (N_s is set to 10)
 
 |--|--|-- mosaic_fusion_dist -> our weighted blending result, corresponding to Eq. 8 and Fig. 3 (b) in the manuscript
