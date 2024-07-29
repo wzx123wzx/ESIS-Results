@@ -2,9 +2,9 @@
 
 |-- 4thAveReservoir	(results of our method and other methods on 4thAveReservoir dataset)
 
-|-- Adob1Buttes1	(results of our method and other methods on Adob1Buttes1 dataset)	
+|-- AdobeButtes1	(results of our method and other methods on AdobeButtes1 dataset)	
 
-|-- Adob1Buttes2	(results of our method and other methods on Adob1Buttes2 dataset)	
+|-- AdobeButtes2	(results of our method and other methods on AdobeButtes2 dataset)	
 
 |-- Golf Course	(results of our method and other methods on Golf Course dataset)	
 
