@@ -10,7 +10,7 @@
 
 |-- Gregg	(results of our method and other methods on Gregg dataset)	
 
-|-- Ablation experiment	(result of of our method with different superpixel size, used for ablation experiment)	
+|-- Ablation experiment	(result of of our method with different superpixel size on test datasets)	
 
 # Reference
 
