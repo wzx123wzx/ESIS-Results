@@ -2,7 +2,7 @@
 
 |-- Enblend			
 
-|   |-- Mosaic_ENblend.jpg					        # ENblend result
+|\_|-- Mosaic_ENblend.jpg					        # ENblend result
 
 |-- Jia's (frame-to-frame-implementation)
 
