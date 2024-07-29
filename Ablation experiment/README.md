@@ -1,4 +1,4 @@
-4thAveReservoir							# datatset
+# folder struture
 
 |-- dataset1
 
