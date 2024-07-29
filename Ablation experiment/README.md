@@ -13,17 +13,23 @@
 |--|--|-- superpixel_mosaic -> shown the superpixel segmentation on mosaic, corresponding to Fig. 3 (c) in the manuscript
 
 |--|-- superpixel_100 # result of our method (N_s is set to 100)
+
 ...
 
 |--|-- superpixel_1000 # result of our method (N_s is set to 1000)
+
 ...
 
 |--|-- superpixel_10000 # result of our method (N_s is set to 10000)
+
 ...
 
 |-- dataset2
+
 ...
+
 |-- dataset3
+
 ...
 
 
