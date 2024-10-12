@@ -1,4 +1,4 @@
-# Efficient-Superpixel-based-Large-scale-Image-Stitching-Results
+# Efficient-Superpixel-based-Seamline-detection-for-Large-scale-Image-Stitching-Results
 
 |-- 4thAveReservoir	(results of our method and other methods on 4thAveReservoir dataset)
 
