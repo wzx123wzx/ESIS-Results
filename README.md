@@ -17,11 +17,11 @@
 # Reference
 
 
-1. Agisoft, “Agisoft metashape.” [Online]. Available: https://www.agisoft.cn
+1. J. Cui, M. Liu, Z. Zhang, S. Yang and J. Ning, "Robust UAV Thermal Infrared Remote Sensing Images Stitching Via Overlap-Prior-Based Global Similarity Prior Model," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 270-282, 2021, doi: 10.1109/JSTARS.2020.3032011.
 
-2. A. Mihal, “Enblend.” [Online]. Available: https://sourceforge.net/projects/enblend/
+2. J. Yang, L. Liu, Q. Yan and F. Deng, "Efficient Seamline Network Generation for Large-Scale Orthoimage Mosaicking," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 6509305, doi: 10.1109/LGRS.2022.3166347.
 
-3. Q. Jia, Z. Li, X. Fan, H. Zhao, S. Teng, X. Ye, and L. J. Latecki, “Leveraging line-point consistence to preserve structures for wide parallax image stitching,” in 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 12 181–12 190.
+3. New House Internet Services BV, “Ptgui.” [Online]. Available: https://ptgui.com
 
 4. “Dronemapper,” accessed: June. 12, 2023. [Online]. Available: https://dronemapper.com/sample_data/
 
